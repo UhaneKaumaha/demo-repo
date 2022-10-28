@@ -1,6 +1,5 @@
 # demo-repo
 ## Descripción
-sadfl kajsñlfk ajsñlk ñalk ñaskfj ñlkjf ñ ñasfj ñj  
-ASLDKJFHLASDKJ LASKDJ LAS LAKSJ LASJFH LFH LL LJH LASHL DFHL 
+Este repositorio es para una prueba inicial.
 ## Autor
-[Javi](https://bit.istitute)
+[Javi](https://bit.institute/)
